@@ -15,8 +15,8 @@ export default function Hero() {
                         <h1 className='fs-1 text-light ps-lg-5 ms-lg-5' >
                             Hi, <br /> I'm Rangasamy <span style={{color: 'black'}}>M</span>
                             <p className="mt-3 fs-3 mb-1">{config.title}</p>
-                            <a className="icon mt-3 d-inline-block" href="#"><AiOutlineGithub/></a>
-                            <a className="icon mt-3 ms-3 d-inline-block" href="#"><AiOutlineLinkedin/></a>
+                            <a className="icon mt-3 d-inline-block" href="https://github.com/rangasamy6151-prog"><AiOutlineGithub/></a>
+                            <a className="icon mt-3 ms-3 d-inline-block" href="https://www.linkedin.com/in/rangasamy-m-213ba2383"><AiOutlineLinkedin/></a>
                         </h1>
                     </div>
                     
